@@ -1,0 +1,21 @@
+$baseWidth: 360px;
+@function px2vw($px) {
+  @return $px / $baseWidth * 100 * 1vw;
+}
+@function px2rem($px) {
+  @return $px / $baseWidth * 10 * 1rem;
+}
+// 图片dpr处理
+@mixin bg-image($url) {
+  background-image: url($url + ".png");
+  // @media (-webkit-min-device-pixel-ratio: 2), (min-device-pixel-ratio: 2) {
+  //   background-image: url($url + "@2x.png");
+  // }
+  // @media (-webkit-min-device-pixel-ratio: 3), (min-device-pixel-ratio: 3) {
+  //   background-image: url($url + "@3x.png");
+  // }
+}
+// 颜色
+$main-color: #1890FF;
+$font-color: #7C7E81;
+$font-bold-color: #191F25;

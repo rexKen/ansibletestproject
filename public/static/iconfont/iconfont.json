@@ -1,0 +1,128 @@
+{
+  "id": "1895838",
+  "name": "bdalpha-app-web",
+  "font_family": "iconfont",
+  "css_prefix_text": "bdalpha-app-icon-",
+  "description": "北斗天枢移动网页版",
+  "glyphs": [
+    {
+      "icon_id": "13519434",
+      "name": "loading",
+      "font_class": "loading",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "11870505",
+      "name": "warning",
+      "font_class": "warning",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "15447948",
+      "name": "multi-person",
+      "font_class": "multi-person",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "15447802",
+      "name": "arrow-right",
+      "font_class": "arrow-right",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "15447803",
+      "name": "arrow-down",
+      "font_class": "arrow-down",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "15447804",
+      "name": "camera",
+      "font_class": "camera",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "15447805",
+      "name": "arrow-up",
+      "font_class": "arrow-up",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "15447806",
+      "name": "location",
+      "font_class": "location",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "15447807",
+      "name": "close",
+      "font_class": "close",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "15447808",
+      "name": "filter",
+      "font_class": "filter",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "15447809",
+      "name": "default-function",
+      "font_class": "default-function",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "15447812",
+      "name": "checked",
+      "font_class": "checked",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "15447813",
+      "name": "sign",
+      "font_class": "sign",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "15447815",
+      "name": "examine",
+      "font_class": "examine",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "15447816",
+      "name": "wifi",
+      "font_class": "wifi",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "15447820",
+      "name": "key-person",
+      "font_class": "key-person",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "15447822",
+      "name": "transform-camera",
+      "font_class": "transform-camera",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    }
+  ]
+}
